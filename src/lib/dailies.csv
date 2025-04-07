@@ -1,9 +1,15 @@
-0-cassava,date,morn water floss,morn string floss,morn brush teeth,shave,new blade,wash face,brush hair,workout,put bed away,buproprion,estradiol,vit D,collagen,Methylcobalmin,L-Methylfolate,night brush teeth,night water floss,night string floss,shower,melatonin,highlight
+0-cassava,date,morn water floss,morn string floss,morn brush teeth,shave,new blade,wash face,brush hair,workout,put bed away,buproprion,estradiol,vit D,collagen,Methylcobalmin,L-Methylfolate,night brush teeth,night water floss,night string floss,shower,melatonin,highlight,misc
 0-type,date,logical,logical,logical,logical,logical,logical,logical,logical,logical,number,number,number,number,number,number,logical,logical,logical,logical,number,text,text
-0-null-default,,,,,,,,,,,300,6,5000,,0.5,1.7,,,,,0.6,,
-1,2025-03-27,true,true,true,true,,true,true,,,300,4,5000,,0.5,1.7,,,,,,ghiblification x.com
-2,2025-03-28,true,,true,true,,,true,,,300,6,,,,,,,,true,,&. all base models same
-3,2025-03-29,true,,true,,,true,,,,300,4,,,,,,,,,0.6,
-4,2025-03-30,true,true,true,true,true,true,true,true,,300,6,5000,,,,,,,true,,SUPER HOT  SUPER HOT
-5,2025-03-31,true,,,,,,,,,400,4,,,,,,,,,,last dtr Rachel: mean!sinclair
-6,2025-04-01,true,,,,,,,,,300,,,,,,,,,,,
+0-null-default,,,,,,,,,,,300,6,5000,,0.5,1.7,,,,,0.6,,,
+1,2025-03-27,true,true,true,true,,true,true,,,300,4,5000,,0.5,1.7,,,,,,ghiblification x.com,
+2,2025-03-28,true,,true,true,,,true,,,300,6,,,,,,,,true,,&. all base models same,
+3,2025-03-29,true,,true,,,true,,,,300,4,,,,,,,,,0.6,,
+4,2025-03-30,true,true,true,true,true,true,true,true,,300,6,5000,,,,,,,true,,SUPER HOT  SUPER HOT,
+5,2025-03-31,true,,,,,,,,,400,4,,,,,,,,,,last dtr Rachel: mean!sinclair,
+6,2025-04-01,true,,,,,,,,true,300,4,5000,,0.5,1.7,,true,,,,,put bed away
+7,2025-04-02,true,,true,true,,true,true,,,400,4,5000,,0.5,1.7,,,,,,,
+8,2025-04-03,false,true,true,,,,true,,,300,6,,,,,,,,,,setup one medical,
+9,2025-04-04,,,,true,true,true,true,,,300,6,,,,,true,,,,,"soba w constance, chloe",
+10,2025-04-05,true,,true,true,,true,true,true,,,,,,,,,,,,,,
+11,2025-04-06,,,,,,,,,,300,4,,,,,,,,true,,markdown,
+12,2025-04-07,,,,,,,,,,300,6,5000,,0.5,1.7,,,,,,,"porn, cum"
